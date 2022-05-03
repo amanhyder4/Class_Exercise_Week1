@@ -1,3 +1,8 @@
-a = 5
-b = 10
+a = input('Enter first value')
+b = input('Enter second value')
+a= int(a)
+b= int(b)
 print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
